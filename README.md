@@ -64,6 +64,8 @@ PDF 파일을 더블클릭했을 때 바로 K-PDF Studio로 열리도록 설정�
 
 ---
 
-## 📄 라이선스
+## 📄 라이선스 & 면책 조항
 
-MIT License
+- 본 프로젝트는 **GNU Affero General Public License v3.0 (AGPLv3)** 하에 배포됩니다.
+- 본 소프트웨어는 오픈소스 라이브러리인 PyMuPDF(AGPLv3) 및 PyQt6(GPLv3)를 사용합니다.
+
