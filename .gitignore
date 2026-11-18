@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macOS
+.DS_Store
+
+# Local agent / IDE configs
+.agents/
+
+# Windows Shortcuts & Local caches
+*.lnk
+kpdf_font_cache.json
+kpdf_settings.json
+
+# Temporary / Test files
+test_hl.pdf
+새_문서_1.pdf
